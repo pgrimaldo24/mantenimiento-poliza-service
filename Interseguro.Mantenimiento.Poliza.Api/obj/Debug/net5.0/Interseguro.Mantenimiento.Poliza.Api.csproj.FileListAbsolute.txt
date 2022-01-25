@@ -96,3 +96,4 @@ C:\Apis\Interseguro.Matenimiento.Poliza.Api\Interseguro.Mantenimiento.Poliza.Api
 C:\Apis\Interseguro.Matenimiento.Poliza.Api\Interseguro.Mantenimiento.Poliza.Api\obj\Debug\net5.0\ref\Interseguro.Mantenimiento.Poliza.Api.dll
 C:\Apis\Interseguro.Matenimiento.Poliza.Api\Interseguro.Mantenimiento.Poliza.Api\obj\Debug\net5.0\Interseguro.Mantenimiento.Poliza.Api.pdb
 C:\Apis\Interseguro.Matenimiento.Poliza.Api\Interseguro.Mantenimiento.Poliza.Api\obj\Debug\net5.0\Interseguro.Mantenimiento.Poliza.Api.genruntimeconfig.cache
+C:\Apis\Interseguro.Matenimiento.Poliza.Api\Interseguro.Mantenimiento.Poliza.Api\obj\Debug\net5.0\Interseguro.Mantenimiento.Poliza.Api.csproj.CopyComplete

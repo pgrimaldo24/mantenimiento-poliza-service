@@ -21,17 +21,17 @@ namespace Interseguro.Mantenimiento.Poliza.Repository.Implementations
         {
             var result = context.Poliza.Where(x => x.Status);
 
-            if (!string.IsNullOrEmpty(filterPolizaDto.Cod_Poliza.ToString()))
-                result = result.Where(x => x.NumPoliza.Contains(filterPolizaDto.Cod_Poliza.ToString()));
+            if (!string.IsNullOrEmpty(filterPolizaDto.Cod_Poliza))
+                result = result.Where(x => x.NumPoliza.Contains(filterPolizaDto.Cod_Poliza));
 
             return await result
                .Select(x => new InformePersonaDto()
                {
                    Cod_Poliza = x.NumPoliza.ToString(),
                    Cod_Persona = x.CodPersona.ToString(),
-                   ApePaterno = x.CodPersonaNavigation.ApePaterno.Trim().ToString(),
-                   ApeMaterno = x.CodPersonaNavigation.ApeMaterno.Trim().ToString(),
-                   NomPersona = x.CodPersonaNavigation.NomPersona.Trim().ToString()
+                   ApePaterno = x.CodPersonaNavigation.ApePaterno.Trim(),
+                   ApeMaterno = x.CodPersonaNavigation.ApeMaterno.Trim(),
+                   NomPersona = x.CodPersonaNavigation.NomPersona.Trim()
                }
            ).SortBy(filterPolizaDto.Order, filterPolizaDto.ColumnOrder).GetPagedAsync(filterPolizaDto.Page, filterPolizaDto.PageSize);
         }

@@ -1,0 +1,45 @@
+CREATE DATABASE BDMantenimientoPoliza
+GO
+
+CREATE TABLE [dbo].[Credenciales](
+	cod_credencial int IDENTITY(1,1) PRIMARY KEY NOT NULL,
+	usuario varchar(50) NOT NULL,
+	contrasena varchar(50) NOT NULL,
+	flag bit NULL,
+	fecha_registro datetime NULL,
+)
+GO
+
+CREATE TABLE [dbo].[Persona](
+	cod_persona varchar(10) PRIMARY KEY NOT NULL,
+	ape_paterno varchar(200) NULL,
+	ape_materno varchar(200) NULL,
+	nom_persona varchar(200) NULL,
+)
+GO
+
+CREATE TABLE [dbo].[Poliza](
+	num_poliza varchar(10) PRIMARY KEY NOT NULL,
+	cod_persona varchar(10) NOT NULL,
+	fec_inicio_vigencia varchar(10) NULL,
+	monto_prima_bruta decimal(18, 3) NULL,
+	igv int NULL,
+	monto_prima_neta decimal(18, 3) NULL,
+	status bit NOT NULL,
+)
+GO
+
+ALTER TABLE dbo.Poliza
+   ADD CONSTRAINT FK_Poliza FOREIGN KEY (cod_persona)
+      REFERENCES dbo.Persona (cod_persona)
+	  
+
+INSERT INTO Credenciales(usuario, contrasena)
+VALUES('administrator', '123')
+GO
+
+ALTER TABLE [dbo].[Credenciales] ADD  CONSTRAINT [DF_Credenciales_flag]  DEFAULT ((1)) FOR [flag]
+GO
+
+ALTER TABLE [dbo].[Credenciales] ADD  CONSTRAINT [DF_Credenciales_fecha_registro]  DEFAULT (getdate()) FOR [fecha_registro]
+GO

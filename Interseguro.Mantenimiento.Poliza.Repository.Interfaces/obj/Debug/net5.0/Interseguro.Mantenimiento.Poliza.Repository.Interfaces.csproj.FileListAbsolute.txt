@@ -14,4 +14,3 @@ C:\Apis\Interseguro.Matenimiento.Poliza.Api\Interseguro.Mantenimiento.Poliza.Rep
 C:\Apis\Interseguro.Matenimiento.Poliza.Api\Interseguro.Mantenimiento.Poliza.Repository.Interfaces\obj\Debug\net5.0\Interseguro.Mantenimiento.Poliza.Repository.Interfaces.dll
 C:\Apis\Interseguro.Matenimiento.Poliza.Api\Interseguro.Mantenimiento.Poliza.Repository.Interfaces\obj\Debug\net5.0\ref\Interseguro.Mantenimiento.Poliza.Repository.Interfaces.dll
 C:\Apis\Interseguro.Matenimiento.Poliza.Api\Interseguro.Mantenimiento.Poliza.Repository.Interfaces\obj\Debug\net5.0\Interseguro.Mantenimiento.Poliza.Repository.Interfaces.pdb
-C:\Apis\Interseguro.Matenimiento.Poliza.Api\Interseguro.Mantenimiento.Poliza.Repository.Interfaces\obj\Debug\net5.0\Interseguro.Mantenimiento.Poliza.Repository.Interfaces.csproj.CopyComplete

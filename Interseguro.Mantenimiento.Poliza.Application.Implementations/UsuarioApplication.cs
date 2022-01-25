@@ -42,7 +42,7 @@ namespace Interseguro.Mantenimiento.Poliza.Application.Implementations
             var userDto = await PersonaRepository.GetUserCredential(credentialDto);
             if (userDto == null)
             {
-                response.Status = Constants.CodigoEstado.Ok;
+                response.Status = Constants.CodigoEstado.NotFound;
                 response.Message = Constants.CodigoEstado.Login.ErrorUsuarioNoEncontrado;
             }
             response.Data = userDto;

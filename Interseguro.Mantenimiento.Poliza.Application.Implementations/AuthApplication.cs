@@ -30,15 +30,12 @@ namespace Interseguro.Mantenimiento.Poliza.Application.Implementations
 
         public async Task<ResponseDto> AuthenticationAsync(CredentialDto credentialDto)
         { 
-            ResponseDto response = await UsuarioApplication.GetUser(credentialDto);
-
-            if (response.Status != Constants.CodigoEstado.Ok)
-                return response;
-
-            var usuario = (UserDto)response.Data; 
+            ResponseDto response = await UsuarioApplication.GetUser(credentialDto); 
+            if (response.Status != Constants.CodigoEstado.Ok) return response;
+            var usuario = (UserDto)response.Data;
             usuario.Token = GenerarToken(usuario);
             response.Data = usuario.Token;
-            return response; 
+            return response;
         }
 
         private string GenerarToken(UserDto userDto)

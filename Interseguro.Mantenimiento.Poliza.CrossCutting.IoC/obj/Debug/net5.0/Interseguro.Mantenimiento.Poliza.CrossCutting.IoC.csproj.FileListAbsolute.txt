@@ -14,4 +14,3 @@ C:\Apis\Interseguro.Matenimiento.Poliza.Api\Interseguro.Mantenimiento.Poliza.Cro
 C:\Apis\Interseguro.Matenimiento.Poliza.Api\Interseguro.Mantenimiento.Poliza.CrossCutting.IoC\obj\Debug\net5.0\Interseguro.Mantenimiento.Poliza.CrossCutting.IoC.dll
 C:\Apis\Interseguro.Matenimiento.Poliza.Api\Interseguro.Mantenimiento.Poliza.CrossCutting.IoC\obj\Debug\net5.0\ref\Interseguro.Mantenimiento.Poliza.CrossCutting.IoC.dll
 C:\Apis\Interseguro.Matenimiento.Poliza.Api\Interseguro.Mantenimiento.Poliza.CrossCutting.IoC\obj\Debug\net5.0\Interseguro.Mantenimiento.Poliza.CrossCutting.IoC.pdb
-C:\Apis\Interseguro.Matenimiento.Poliza.Api\Interseguro.Mantenimiento.Poliza.CrossCutting.IoC\obj\Debug\net5.0\Interseguro.Mantenimiento.Poliza.CrossCutting.IoC.csproj.CopyComplete
