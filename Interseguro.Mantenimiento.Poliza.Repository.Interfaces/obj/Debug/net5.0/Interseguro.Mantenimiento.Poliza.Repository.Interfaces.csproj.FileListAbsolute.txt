@@ -1,0 +1,17 @@
+C:\Apis\Interseguro.Matenimiento.Poliza.Api\Interseguro.Mantenimiento.Poliza.Repository.Interfaces\bin\Debug\net5.0\Interseguro.Mantenimiento.Poliza.Repository.Interfaces.deps.json
+C:\Apis\Interseguro.Matenimiento.Poliza.Api\Interseguro.Mantenimiento.Poliza.Repository.Interfaces\bin\Debug\net5.0\Interseguro.Mantenimiento.Poliza.Repository.Interfaces.dll
+C:\Apis\Interseguro.Matenimiento.Poliza.Api\Interseguro.Mantenimiento.Poliza.Repository.Interfaces\bin\Debug\net5.0\ref\Interseguro.Mantenimiento.Poliza.Repository.Interfaces.dll
+C:\Apis\Interseguro.Matenimiento.Poliza.Api\Interseguro.Mantenimiento.Poliza.Repository.Interfaces\bin\Debug\net5.0\Interseguro.Mantenimiento.Poliza.Repository.Interfaces.pdb
+C:\Apis\Interseguro.Matenimiento.Poliza.Api\Interseguro.Mantenimiento.Poliza.Repository.Interfaces\bin\Debug\net5.0\Interseguro.Mantenimiento.Poliza.CrossCutting.Common.dll
+C:\Apis\Interseguro.Matenimiento.Poliza.Api\Interseguro.Mantenimiento.Poliza.Repository.Interfaces\bin\Debug\net5.0\Interseguro.Mantenimiento.Poliza.CrossCutting.Dto.dll
+C:\Apis\Interseguro.Matenimiento.Poliza.Api\Interseguro.Mantenimiento.Poliza.Repository.Interfaces\bin\Debug\net5.0\Interseguro.Mantenimiento.Poliza.CrossCutting.Common.pdb
+C:\Apis\Interseguro.Matenimiento.Poliza.Api\Interseguro.Mantenimiento.Poliza.Repository.Interfaces\bin\Debug\net5.0\Interseguro.Mantenimiento.Poliza.CrossCutting.Dto.pdb
+C:\Apis\Interseguro.Matenimiento.Poliza.Api\Interseguro.Mantenimiento.Poliza.Repository.Interfaces\obj\Debug\net5.0\Interseguro.Mantenimiento.Poliza.Repository.Interfaces.csproj.AssemblyReference.cache
+C:\Apis\Interseguro.Matenimiento.Poliza.Api\Interseguro.Mantenimiento.Poliza.Repository.Interfaces\obj\Debug\net5.0\Interseguro.Mantenimiento.Poliza.Repository.Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Apis\Interseguro.Matenimiento.Poliza.Api\Interseguro.Mantenimiento.Poliza.Repository.Interfaces\obj\Debug\net5.0\Interseguro.Mantenimiento.Poliza.Repository.Interfaces.AssemblyInfoInputs.cache
+C:\Apis\Interseguro.Matenimiento.Poliza.Api\Interseguro.Mantenimiento.Poliza.Repository.Interfaces\obj\Debug\net5.0\Interseguro.Mantenimiento.Poliza.Repository.Interfaces.AssemblyInfo.cs
+C:\Apis\Interseguro.Matenimiento.Poliza.Api\Interseguro.Mantenimiento.Poliza.Repository.Interfaces\obj\Debug\net5.0\Interseguro.Mantenimiento.Poliza.Repository.Interfaces.csproj.CoreCompileInputs.cache
+C:\Apis\Interseguro.Matenimiento.Poliza.Api\Interseguro.Mantenimiento.Poliza.Repository.Interfaces\obj\Debug\net5.0\Interseguro.Mantenimiento.Poliza.Repository.Interfaces.dll
+C:\Apis\Interseguro.Matenimiento.Poliza.Api\Interseguro.Mantenimiento.Poliza.Repository.Interfaces\obj\Debug\net5.0\ref\Interseguro.Mantenimiento.Poliza.Repository.Interfaces.dll
+C:\Apis\Interseguro.Matenimiento.Poliza.Api\Interseguro.Mantenimiento.Poliza.Repository.Interfaces\obj\Debug\net5.0\Interseguro.Mantenimiento.Poliza.Repository.Interfaces.pdb
+C:\Apis\Interseguro.Matenimiento.Poliza.Api\Interseguro.Mantenimiento.Poliza.Repository.Interfaces\obj\Debug\net5.0\Interseguro.Mantenimiento.Poliza.Repository.Interfaces.csproj.CopyComplete

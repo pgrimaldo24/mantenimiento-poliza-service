@@ -1,0 +1,20 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="System.IdentityModel.Tokens.Jwt" Version="5.0.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Interseguro.Mantenimiento.Poliza.Application.Domain.Models\Interseguro.Mantenimiento.Poliza.Domain.Models.csproj" />
+    <ProjectReference Include="..\Interseguro.Mantenimiento.Poliza.Application.Interfaces\Interseguro.Mantenimiento.Poliza.Application.Interfaces.csproj" />
+    <ProjectReference Include="..\Interseguro.Mantenimiento.Poliza.CrossCutting.Common\Interseguro.Mantenimiento.Poliza.CrossCutting.Common.csproj" />
+    <ProjectReference Include="..\Interseguro.Mantenimiento.Poliza.CrossCutting.Dto\Interseguro.Mantenimiento.Poliza.CrossCutting.Dto.csproj" />
+    <ProjectReference Include="..\Interseguro.Mantenimiento.Poliza.CrossCutting.IoC\Interseguro.Mantenimiento.Poliza.CrossCutting.IoC.csproj" />
+    <ProjectReference Include="..\Interseguro.Mantenimiento.Poliza.Repository.Interfaces\Interseguro.Mantenimiento.Poliza.Repository.Interfaces.csproj" />
+  </ItemGroup>
+
+</Project>

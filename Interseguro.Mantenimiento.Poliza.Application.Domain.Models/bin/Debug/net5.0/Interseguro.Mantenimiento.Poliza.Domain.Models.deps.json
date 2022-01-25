@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Interseguro.Mantenimiento.Poliza.Domain.Models/1.0.0": {
+        "dependencies": {
+          "Interseguro.Mantenimiento.Poliza.CrossCutting.Common": "1.0.0"
+        },
+        "runtime": {
+          "Interseguro.Mantenimiento.Poliza.Domain.Models.dll": {}
+        }
+      },
+      "Interseguro.Mantenimiento.Poliza.CrossCutting.Common/1.0.0": {
+        "runtime": {
+          "Interseguro.Mantenimiento.Poliza.CrossCutting.Common.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Interseguro.Mantenimiento.Poliza.Domain.Models/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Interseguro.Mantenimiento.Poliza.CrossCutting.Common/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

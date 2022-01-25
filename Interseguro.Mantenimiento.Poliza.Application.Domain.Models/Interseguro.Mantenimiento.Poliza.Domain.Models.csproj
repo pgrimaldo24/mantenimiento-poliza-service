@@ -1,0 +1,11 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Interseguro.Mantenimiento.Poliza.CrossCutting.Common\Interseguro.Mantenimiento.Poliza.CrossCutting.Common.csproj" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,17 @@
+C:\Apis\Interseguro.Matenimiento.Poliza.Api\Interseguro.Mantenimiento.Poliza.CrossCutting.IoC\bin\Debug\net5.0\Interseguro.Mantenimiento.Poliza.CrossCutting.IoC.deps.json
+C:\Apis\Interseguro.Matenimiento.Poliza.Api\Interseguro.Mantenimiento.Poliza.CrossCutting.IoC\bin\Debug\net5.0\Interseguro.Mantenimiento.Poliza.CrossCutting.IoC.dll
+C:\Apis\Interseguro.Matenimiento.Poliza.Api\Interseguro.Mantenimiento.Poliza.CrossCutting.IoC\bin\Debug\net5.0\ref\Interseguro.Mantenimiento.Poliza.CrossCutting.IoC.dll
+C:\Apis\Interseguro.Matenimiento.Poliza.Api\Interseguro.Mantenimiento.Poliza.CrossCutting.IoC\bin\Debug\net5.0\Interseguro.Mantenimiento.Poliza.CrossCutting.IoC.pdb
+C:\Apis\Interseguro.Matenimiento.Poliza.Api\Interseguro.Mantenimiento.Poliza.CrossCutting.IoC\bin\Debug\net5.0\Interseguro.Mantenimiento.Poliza.CrossCutting.Common.dll
+C:\Apis\Interseguro.Matenimiento.Poliza.Api\Interseguro.Mantenimiento.Poliza.CrossCutting.IoC\bin\Debug\net5.0\Interseguro.Mantenimiento.Poliza.CrossCutting.Dto.dll
+C:\Apis\Interseguro.Matenimiento.Poliza.Api\Interseguro.Mantenimiento.Poliza.CrossCutting.IoC\bin\Debug\net5.0\Interseguro.Mantenimiento.Poliza.CrossCutting.Dto.pdb
+C:\Apis\Interseguro.Matenimiento.Poliza.Api\Interseguro.Mantenimiento.Poliza.CrossCutting.IoC\bin\Debug\net5.0\Interseguro.Mantenimiento.Poliza.CrossCutting.Common.pdb
+C:\Apis\Interseguro.Matenimiento.Poliza.Api\Interseguro.Mantenimiento.Poliza.CrossCutting.IoC\obj\Debug\net5.0\Interseguro.Mantenimiento.Poliza.CrossCutting.IoC.csproj.AssemblyReference.cache
+C:\Apis\Interseguro.Matenimiento.Poliza.Api\Interseguro.Mantenimiento.Poliza.CrossCutting.IoC\obj\Debug\net5.0\Interseguro.Mantenimiento.Poliza.CrossCutting.IoC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Apis\Interseguro.Matenimiento.Poliza.Api\Interseguro.Mantenimiento.Poliza.CrossCutting.IoC\obj\Debug\net5.0\Interseguro.Mantenimiento.Poliza.CrossCutting.IoC.AssemblyInfoInputs.cache
+C:\Apis\Interseguro.Matenimiento.Poliza.Api\Interseguro.Mantenimiento.Poliza.CrossCutting.IoC\obj\Debug\net5.0\Interseguro.Mantenimiento.Poliza.CrossCutting.IoC.AssemblyInfo.cs
+C:\Apis\Interseguro.Matenimiento.Poliza.Api\Interseguro.Mantenimiento.Poliza.CrossCutting.IoC\obj\Debug\net5.0\Interseguro.Mantenimiento.Poliza.CrossCutting.IoC.csproj.CoreCompileInputs.cache
+C:\Apis\Interseguro.Matenimiento.Poliza.Api\Interseguro.Mantenimiento.Poliza.CrossCutting.IoC\obj\Debug\net5.0\Interseguro.Mantenimiento.Poliza.CrossCutting.IoC.dll
+C:\Apis\Interseguro.Matenimiento.Poliza.Api\Interseguro.Mantenimiento.Poliza.CrossCutting.IoC\obj\Debug\net5.0\ref\Interseguro.Mantenimiento.Poliza.CrossCutting.IoC.dll
+C:\Apis\Interseguro.Matenimiento.Poliza.Api\Interseguro.Mantenimiento.Poliza.CrossCutting.IoC\obj\Debug\net5.0\Interseguro.Mantenimiento.Poliza.CrossCutting.IoC.pdb
+C:\Apis\Interseguro.Matenimiento.Poliza.Api\Interseguro.Mantenimiento.Poliza.CrossCutting.IoC\obj\Debug\net5.0\Interseguro.Mantenimiento.Poliza.CrossCutting.IoC.csproj.CopyComplete

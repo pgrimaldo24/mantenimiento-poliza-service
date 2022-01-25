@@ -1,0 +1,49 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Interseguro.Mantenimiento.Poliza.Application.Interfaces/1.0.0": {
+        "dependencies": {
+          "Interseguro.Mantenimiento.Poliza.CrossCutting.Dto": "1.0.0"
+        },
+        "runtime": {
+          "Interseguro.Mantenimiento.Poliza.Application.Interfaces.dll": {}
+        }
+      },
+      "Interseguro.Mantenimiento.Poliza.CrossCutting.Common/1.0.0": {
+        "runtime": {
+          "Interseguro.Mantenimiento.Poliza.CrossCutting.Common.dll": {}
+        }
+      },
+      "Interseguro.Mantenimiento.Poliza.CrossCutting.Dto/1.0.0": {
+        "dependencies": {
+          "Interseguro.Mantenimiento.Poliza.CrossCutting.Common": "1.0.0"
+        },
+        "runtime": {
+          "Interseguro.Mantenimiento.Poliza.CrossCutting.Dto.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Interseguro.Mantenimiento.Poliza.Application.Interfaces/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Interseguro.Mantenimiento.Poliza.CrossCutting.Common/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Interseguro.Mantenimiento.Poliza.CrossCutting.Dto/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

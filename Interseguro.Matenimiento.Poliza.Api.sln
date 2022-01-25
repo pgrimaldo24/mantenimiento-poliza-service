@@ -1,0 +1,94 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "01. Distributed Services", "01. Distributed Services", "{AA0C3ACC-34A7-4D12-8091-C2750575C006}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Interseguro.Mantenimiento.Poliza.Api", "Interseguro.Mantenimiento.Poliza.Api\Interseguro.Mantenimiento.Poliza.Api.csproj", "{C2167EFE-9900-46FE-8AEB-4E41C6BDDAAB}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "02. Application", "02. Application", "{C36D72AF-BCEF-411E-A39E-426D0A055DD3}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "03. Domain", "03. Domain", "{68AB4EF2-5A91-42CA-9CA5-6D10B1B9F102}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "04. Cross Cutting", "04. Cross Cutting", "{F3FA32D2-F675-4070-940C-B0B009F775EF}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "05. Infraestructure", "05. Infraestructure", "{295A3C83-44EC-4F34-87E5-D7F6C8C107BB}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Interseguro.Mantenimiento.Poliza.Application.Implementations", "Interseguro.Mantenimiento.Poliza.Application.Implementations\Interseguro.Mantenimiento.Poliza.Application.Implementations.csproj", "{338EFF06-6768-4C0B-A40C-FF42F0CD12D0}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Interseguro.Mantenimiento.Poliza.Application.Interfaces", "Interseguro.Mantenimiento.Poliza.Application.Interfaces\Interseguro.Mantenimiento.Poliza.Application.Interfaces.csproj", "{3B277CA4-CA8A-4759-9286-639564C88787}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Interseguro.Mantenimiento.Poliza.Domain.Models", "Interseguro.Mantenimiento.Poliza.Application.Domain.Models\Interseguro.Mantenimiento.Poliza.Domain.Models.csproj", "{D68D78F6-494B-43DF-9863-F9B58E21CBE3}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Interseguro.Mantenimiento.Poliza.CrossCutting.IoC", "Interseguro.Mantenimiento.Poliza.CrossCutting.IoC\Interseguro.Mantenimiento.Poliza.CrossCutting.IoC.csproj", "{A991A4BA-5828-40B2-9AE7-46D97375132D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Interseguro.Mantenimiento.Poliza.Repository.Implementations", "Interseguro.Mantenimiento.Poliza.Repository.Implementations\Interseguro.Mantenimiento.Poliza.Repository.Implementations.csproj", "{D8E30861-4561-4D7C-BF8E-216312B99C28}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Interseguro.Mantenimiento.Poliza.Repository.Interfaces", "Interseguro.Mantenimiento.Poliza.Repository.Interfaces\Interseguro.Mantenimiento.Poliza.Repository.Interfaces.csproj", "{6C6F5A03-7096-4101-B181-0ED5ADB89830}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Interseguro.Mantenimiento.Poliza.CrossCutting.Common", "Interseguro.Mantenimiento.Poliza.CrossCutting.Common\Interseguro.Mantenimiento.Poliza.CrossCutting.Common.csproj", "{4834226A-3FA4-40E5-9541-A24DC072EA85}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Interseguro.Mantenimiento.Poliza.CrossCutting.Dto", "Interseguro.Mantenimiento.Poliza.CrossCutting.Dto\Interseguro.Mantenimiento.Poliza.CrossCutting.Dto.csproj", "{CD28F642-21C9-4DFA-997E-77BF7BB289B8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C2167EFE-9900-46FE-8AEB-4E41C6BDDAAB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C2167EFE-9900-46FE-8AEB-4E41C6BDDAAB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C2167EFE-9900-46FE-8AEB-4E41C6BDDAAB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C2167EFE-9900-46FE-8AEB-4E41C6BDDAAB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{338EFF06-6768-4C0B-A40C-FF42F0CD12D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{338EFF06-6768-4C0B-A40C-FF42F0CD12D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{338EFF06-6768-4C0B-A40C-FF42F0CD12D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{338EFF06-6768-4C0B-A40C-FF42F0CD12D0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3B277CA4-CA8A-4759-9286-639564C88787}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B277CA4-CA8A-4759-9286-639564C88787}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B277CA4-CA8A-4759-9286-639564C88787}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B277CA4-CA8A-4759-9286-639564C88787}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D68D78F6-494B-43DF-9863-F9B58E21CBE3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D68D78F6-494B-43DF-9863-F9B58E21CBE3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D68D78F6-494B-43DF-9863-F9B58E21CBE3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D68D78F6-494B-43DF-9863-F9B58E21CBE3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A991A4BA-5828-40B2-9AE7-46D97375132D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A991A4BA-5828-40B2-9AE7-46D97375132D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A991A4BA-5828-40B2-9AE7-46D97375132D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A991A4BA-5828-40B2-9AE7-46D97375132D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D8E30861-4561-4D7C-BF8E-216312B99C28}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D8E30861-4561-4D7C-BF8E-216312B99C28}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D8E30861-4561-4D7C-BF8E-216312B99C28}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D8E30861-4561-4D7C-BF8E-216312B99C28}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6C6F5A03-7096-4101-B181-0ED5ADB89830}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C6F5A03-7096-4101-B181-0ED5ADB89830}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C6F5A03-7096-4101-B181-0ED5ADB89830}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C6F5A03-7096-4101-B181-0ED5ADB89830}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4834226A-3FA4-40E5-9541-A24DC072EA85}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4834226A-3FA4-40E5-9541-A24DC072EA85}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4834226A-3FA4-40E5-9541-A24DC072EA85}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4834226A-3FA4-40E5-9541-A24DC072EA85}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CD28F642-21C9-4DFA-997E-77BF7BB289B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD28F642-21C9-4DFA-997E-77BF7BB289B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD28F642-21C9-4DFA-997E-77BF7BB289B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD28F642-21C9-4DFA-997E-77BF7BB289B8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{C2167EFE-9900-46FE-8AEB-4E41C6BDDAAB} = {AA0C3ACC-34A7-4D12-8091-C2750575C006}
+		{338EFF06-6768-4C0B-A40C-FF42F0CD12D0} = {C36D72AF-BCEF-411E-A39E-426D0A055DD3}
+		{3B277CA4-CA8A-4759-9286-639564C88787} = {C36D72AF-BCEF-411E-A39E-426D0A055DD3}
+		{D68D78F6-494B-43DF-9863-F9B58E21CBE3} = {68AB4EF2-5A91-42CA-9CA5-6D10B1B9F102}
+		{A991A4BA-5828-40B2-9AE7-46D97375132D} = {F3FA32D2-F675-4070-940C-B0B009F775EF}
+		{D8E30861-4561-4D7C-BF8E-216312B99C28} = {295A3C83-44EC-4F34-87E5-D7F6C8C107BB}
+		{6C6F5A03-7096-4101-B181-0ED5ADB89830} = {295A3C83-44EC-4F34-87E5-D7F6C8C107BB}
+		{4834226A-3FA4-40E5-9541-A24DC072EA85} = {F3FA32D2-F675-4070-940C-B0B009F775EF}
+		{CD28F642-21C9-4DFA-997E-77BF7BB289B8} = {F3FA32D2-F675-4070-940C-B0B009F775EF}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0EA50663-D225-47D3-BF95-CE62E3E141B1}
+	EndGlobalSection
+EndGlobal
